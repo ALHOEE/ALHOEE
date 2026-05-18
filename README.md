@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/-Python-3776AB" alt="Python">
+<"Python">
 <img src="https://img.shields.io/badge/-C%2B%2B-00599C" alt="C++">
 <img src="https://img.shields.io/badge/-MATLAB-ED1C24" alt="MATLAB">
 <img src="https://img.shields.io/badge/-Git-F05032" alt="Git">
