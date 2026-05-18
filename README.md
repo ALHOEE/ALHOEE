@@ -5,8 +5,7 @@
 
 <br>
 
-**C** •  
-**MATLAB** •
+**C** •  **MATLAB** •
 **PSIM** • 
 **Multisim** •
 **Assembly** • 
