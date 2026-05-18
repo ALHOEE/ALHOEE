@@ -5,11 +5,12 @@
 
 <br>
 
-<"Python">
-<img src="https://img.shields.io/badge/-C%2B%2B-00599C" alt="C++">
-<img src="https://img.shields.io/badge/-MATLAB-ED1C24" alt="MATLAB">
-<img src="https://img.shields.io/badge/-Git-F05032" alt="Git">
-<a href="https://www.linkedin.com/in/aryeh-hoffman-034b4930b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5" alt="LinkedIn"></a>
+**Python**•
+**C**•
+**MATLAB**•
+**Multisim**
+
+
 
 ---
 
