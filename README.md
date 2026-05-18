@@ -58,8 +58,7 @@
 
 ---
 
-## 🎵 Beyond Engineering
-When I am not debugging hardware or optimizing signal loops, you can find me practicing music. I am an instrumentalist passionate about Jazz and Bossa Nova, exploring arrangements on the **Saxophone**, **Trumpet**, and the traditional **Arab Ney**.
+
 
 ---
 
