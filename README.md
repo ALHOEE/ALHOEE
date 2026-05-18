@@ -5,8 +5,8 @@
 
 <br>
 
-**Python** • 
-**C** • 
+**C** •**Python** • 
+**PSIM** • 
 **MATLAB** • 
 **Multisim**
 
