@@ -27,7 +27,7 @@
     <td width="50%" valign="top">
       <h3>👶 SmartSeat IoT System</h3>
       <p>An innovative, embedded IoT baby seat safety solution designed to prevent children from being left unattended in vehicles. Features smart belt-sensor integration, low-power state management, and real-time alert architecture.</p>
-      <a href="https://github.com/ALHOEE"><b>View Repository →</b></a>
+      <a href="https://github.com/ALHOEE/SmartSeat"><b>View Repository →</b></a>
     </td>
   </tr>
 </table>
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-##  Let's Connect!
+## 🤝 Let's Connect!
 📧 [aryehoffman@gmail.com](mailto:aryehoffman@gmail.com) | 🐙 [github.com/ALHOEE](https://github.com/ALHOEE) | 💼 [LinkedIn](https://www.linkedin.com/in/aryeh-hoffman-034b4930b/)
 
 </div>
