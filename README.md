@@ -50,7 +50,7 @@ I am an Electrical Engineering student with a deep interest in the entire chain 
     <td width="50%" valign="top">
       <h4>🔌 Hardware & Embedded Architecture</h4>
       <ul>
-        <li>Microcontrollers (ARM, AVR) & Embedded C/C++</li>
+        <li>Microcontrollers (ARM, AVR) & Embedded C</li>
         <li>Analog & Digital Circuit Analysis</li>
         <li>Signal Conditioning, Sensors & Low-Power Design</li>
         <li>Hardware-Software Co-Design & Code Optimization</li>
