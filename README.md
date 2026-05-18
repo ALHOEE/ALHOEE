@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am an Electrical Engineering student specializin
 
 \### 🎸 \[PitchPerfect DSP Tuner](https://github.com/ALHOEE/PitchPerfect-DSP-Guitar-tuner-)
 
-A high-performance, real-time audio tuner built with Python. Implements a time-domain \*\*Autocorrelation algorithm\*\* for micro-tonal precision ($\\pm50$ cents) and renders a crisp, High-DPI vector GUI featuring a rotating guitar neck.
+A high-performance, real-time audio tuner built with Python. Implements a time-domain \*\*Autocorrelation algorithm\*\* for micro-tonal precision (±50 cents) and renders a crisp, High-DPI vector GUI featuring a rotating guitar neck.
 
 
 
@@ -62,7 +62,7 @@ When I am not debugging hardware or optimizing signal loops, you can find me pra
 
 
 
-\### 🤝 Connect with Me
+\## 🤝 Connect with Me
 
 \- \*\*GitHub\*\*: \[github.com/ALHOEE](https://github.com/ALHOEE)
 
