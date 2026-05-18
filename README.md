@@ -2,15 +2,7 @@
 
 # Aryeh Hoffman
 ### 🎓 Electrical Engineering | Signal Processing, Communications & Embedded Systems
-
-<br>
-
-**C** •  **MATLAB** •
-**PSIM** • 
-**Multisim** •
-**Assembly** • 
-**HDL** 
-
+**Python** &nbsp;•&nbsp; **C / C++** &nbsp;•&nbsp; **Assembly** &nbsp;•&nbsp; **HDL (Verilog/VHDL)** &nbsp;•&nbsp; **MATLAB** &nbsp;•&nbsp; **PSIM** &nbsp;•&nbsp; **Multisim**
 
 ---
 
