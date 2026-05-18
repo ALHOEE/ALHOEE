@@ -5,11 +5,12 @@
 
 <br>
 
-**C** •**Python** •  
+**C** •  
+**MATLAB** •
 **PSIM** • 
-**MATLAB** • 
-**Multisim**
-
+**Multisim** •
+**Assembly** • 
+**HDL** 
 
 
 ---
