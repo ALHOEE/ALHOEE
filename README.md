@@ -1,7 +1,15 @@
+<div align="center">
+
 # Aryeh Hoffman
 ### 🎓 Electrical Engineering | Signal Processing, Communications & Embedded Systems
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryeh-hoffman-034b4930b/)
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+<img src="https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+<a href="https://www.linkedin.com/in/aryeh-hoffman-034b4930b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 ---
 
@@ -12,6 +20,8 @@ I am an Electrical Engineering student with a deep interest in the entire chain 
 *“Everything should be made as simple as possible, but not simpler.”* — Albert Einstein
 
 ---
+
+</div>
 
 ## 🚀 Featured Projects
 <table width="100%">
@@ -61,4 +71,6 @@ I am an Electrical Engineering student with a deep interest in the entire chain 
 <div align="center">
 
 ## 🤝 Let's Connect!
-📧 [aryehoffman@gmail.com](mailto:aryehoffman
+📧 [aryehoffman@gmail.com](mailto:aryehoffman@gmail.com) | 🐙 [github.com/ALHOEE](https://github.com/ALHOEE) | 💼 [LinkedIn](https://www.linkedin.com/in/aryeh-hoffman-034b4930b/)
+
+</div>
